@@ -4,7 +4,7 @@
  
 <p align="justify">Durante o 9º ano do ensino fundamental em um colégio da rede Objetivo, tive aulas de robótica e me interessei pela área de tecnologia. As aulas envolviam a montagem e programação dos robôs da Lego, Mindstorms.</p>
 
-<img align="right" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Anna.png"  height="240px">
+<img align="right" src=""  height="240px">
 <p align="justify">Formado em Técnico de Automação e Controle pelo SENAI-SP e recente estudante de Banco de Dados na FATEC de São José dos Campos.</p> 
 
 </p>
