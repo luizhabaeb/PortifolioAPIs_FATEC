@@ -9,8 +9,8 @@
 
 <p align="justify">Tenho 26 anos, sou casado e pai do Tiago e da Manuela. Minha família é tudo para mim.
 
-Atualmente sou estagiário em Desenvolvimento de Software pela Ericsson Telecomunicações e aluno do Curso Tecnológico de Banco de Dados (3a) na FATEC em São José dos Campos. Na empresa eu trabalho com tecnologias como: C#, VB .NET, Oracle SQL, Microsoft Azure DevOps, Power Platform e Power BI. 
-Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho experiência com suporte técnico e atendimento e gosto de trabalhar com pessoas. Me sinto motivado e grato somente a alguém pela oportunidade e por ajudar, não no âmbito ou profissional. Meu trabalho tem ênfase em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias em todos os momentos. Assim, alguns dos meus conhecimentos e estudos, no momento, estão focados em Programação Orientada a Objetos C#, VB, .NET Framework.</p>
+Atualmente sou estagiário em Desenvolvimento de Software pela Ericsson Telecomunicações, na empresa eu trabalho com tecnologias como: C#, VB .NET, Oracle SQL, Microsoft Azure DevOps, Power Platform e Power BI. 
+Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho experiência com suporte técnico e atendimento e gosto de trabalhar com pessoas. Me sinto motivado e grato somente pela oportunidade de poder ajudar, seja no âmbito ou profissional. Meu trabalho tem ênfase em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias em todos os momentos. Assim, alguns dos meus conhecimentos e estudos, no momento, estão focados em Programação Orientada a Objetos, C#, .NET Framework, Power Platforme e DevOps.</p>
 
 #### Principais Conhecimentos
 <p><img src="link">  
@@ -18,8 +18,8 @@ Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho
  <img src="link"></p>
  
 #### Contato
-- Email:  meuemail
-- <a href="link">Linkedin</a>
+- Email:  luiz.habaeb@fatec.sp.gov.br
+- <a href="https://linkedin.com/in/luizhabaeb">Linkedin</a>
 
 ## Meus Projetos
  
