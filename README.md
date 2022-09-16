@@ -13,9 +13,9 @@ Atualmente sou estagiário em Desenvolvimento de Software pela Ericsson Telecomu
 Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho experiência com suporte técnico e atendimento e gosto de trabalhar com pessoas. Me sinto motivado e grato somente pela oportunidade de poder ajudar, seja no âmbito ou profissional. Meu trabalho tem ênfase em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias em todos os momentos. Assim, alguns dos meus conhecimentos e estudos, no momento, estão focados em Programação Orientada a Objetos, C#, .NET Framework, Power Platforme e DevOps.</p>
 
 #### Principais Conhecimentos
-<p><img src="link">  
- <img src="link">
- <img src="link"></p>
+<p><img src="https://img.icons8.com/fluency/452/microsoft-power-automate-2020.png">  
+ <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png">
+ <img src="https://miro.medium.com/max/875/1*Ome-oSxDNx7mQxJFZJ-NJg.png"></p>
  
 #### Contato
 - Email:  luiz.habaeb@fatec.sp.gov.br
