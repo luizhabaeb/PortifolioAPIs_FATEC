@@ -2,8 +2,7 @@
 
 ## Introdução
 
-<img align="right" src="![image](https://user-images.githubusercontent.com/82103455/190830861-1532f904-9330-453c-a298-dfa2739d63c5.png)
-"  height="240px">
+<img align="right" src="https://user-images.githubusercontent.com/82103455/190830861-1532f904-9330-453c-a298-dfa2739d63c5.png" height="240px">
 <p align="justify">Formado em Técnico de Automação e Controle pelo SENAI-SP e recente estudante de Banco de Dados na FATEC de São José dos Campos.</p> 
 
 </p>
