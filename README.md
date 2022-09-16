@@ -2,7 +2,8 @@
 
 ## Introdução
 
-<img align="right" src=""  height="240px">
+<img align="right" src="![DSC_1436](https://user-images.githubusercontent.com/82103455/190830678-5059c5da-c903-4e57-b8b2-3a5aa2336421.JPG)
+"  height="240px">
 <p align="justify">Formado em Técnico de Automação e Controle pelo SENAI-SP e recente estudante de Banco de Dados na FATEC de São José dos Campos.</p> 
 
 </p>
