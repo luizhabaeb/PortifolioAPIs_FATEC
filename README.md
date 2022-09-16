@@ -13,9 +13,15 @@ Atualmente sou estagiário em Desenvolvimento de Software pela Ericsson Telecomu
 Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho experiência com suporte técnico e atendimento e gosto de trabalhar com pessoas. Me sinto motivado e grato somente pela oportunidade de poder ajudar, seja no âmbito ou profissional. Meu trabalho tem ênfase em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias em todos os momentos. Assim, alguns dos meus conhecimentos e estudos, no momento, estão focados em Programação Orientada a Objetos, C#, .NET Framework, Power Platforme e DevOps.</p>
 
 #### Principais Conhecimentos
-<p><img src="https://img.icons8.com/fluency/452/microsoft-power-automate-2020.png">  
- <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png">
- <img src="https://miro.medium.com/max/875/1*Ome-oSxDNx7mQxJFZJ-NJg.png"></p>
+<p>
+  <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="AUTOMATE" height="30" src="https://img.icons8.com/fluency/452/microsoft-power-automate-2020.png">
+  <img align="center" alt="C#" height="30" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
+  <img align="center" alt="Visual Basic" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" />
+  <img align="center" alt=".NET Framework" height="30" src="https://seeklogo.com/images/M/microsoft-net-logo-4D9DA1DB77-seeklogo.com.png" />
+  <img align="center" alt="Power BI" height="30" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" />
+  <img align="center" alt="Azure DevOps" height="30" src="https://miro.medium.com/max/875/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />
+</p>
  
 #### Contato
 - Email:  luiz.habaeb@fatec.sp.gov.br
