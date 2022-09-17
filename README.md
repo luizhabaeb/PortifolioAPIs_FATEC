@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho
 
 ## Meus Projetos
  
-<li><a href="link">1º Semestre</a></li>
+<li><a href="https://github.com/luizhabaeb/PortifolioAPIs_FATEC/blob/main/1%C2%BA%20Semestre.md">1º Semestre</a></li>
 <li><a href="as">2º Semestre</a></li>
 <li><a href="as">3º Semestre</a></li>
 
