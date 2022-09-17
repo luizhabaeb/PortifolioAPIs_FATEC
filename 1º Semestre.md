@@ -4,6 +4,7 @@
 
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/login.gif)
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/site.gif)
+ <li><a href="https://github.com/Iridium-FATEC/PI-IRIDIUM">→ Repositório deste Projeto</a></li> 
  
 #### Tecnologias Utilizadas
 - Figma, Wix.
