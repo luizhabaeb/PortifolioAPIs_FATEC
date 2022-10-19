@@ -6,6 +6,7 @@
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/login.gif)
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/site.gif)
  <li><a href="https://github.com/Inodevs/Inodevs">→ Repositório deste Projeto</a></li> 
+  <li><a href="https://www.figma.com/proto/tipWpDl8AF1pPSGCAsVdGA/Untitled?node-id=94%3A2&scaling=scale-down-width&page-id=91%3A2&starting-point-node-id=94%3A2">→ Protótipo no Wireframe do Figma</a></li> 
  
 #### Tecnologias Utilizadas
 - Figma, Wix.
