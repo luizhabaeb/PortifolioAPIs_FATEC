@@ -1,10 +1,11 @@
   ### 2021/2º Semestre - INODEVS 
+  <img align="right" src="https://user-images.githubusercontent.com/82103455/196815906-0dac1fb3-67a3-495f-bc2a-57d7e393e3f5.jpg" height="240px">
  <p align="justify">No meu segundo semestre na FATEC, eu e meu grupo tivemos como cliente a empresa JETSOFT, uma empresa que oferece aos seus clientes e parceiros soluções surpreendentes e inovadoras, privilegiando as relações humanas, estando próximos, conhecendo profundamente suas atividades e desejos, para apoiar de forma ágil e flexível a implementação das suas diversas estratégias de negócio..</p>
 <p align="justify">O objetivo do nosso grupo é criar um CRUD para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.</p>
 
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/login.gif)
 ![gif1](https://github.com/Iridium-FATEC/PI-IRIDIUM/blob/main/Projeto/P%C3%A1ginas_gifs/site.gif)
- <li><a href="https://github.com/Iridium-FATEC/PI-IRIDIUM">→ Repositório deste Projeto</a></li> 
+ <li><a href="https://github.com/Inodevs/Inodevs">→ Repositório deste Projeto</a></li> 
  
 #### Tecnologias Utilizadas
 - Figma, Wix.
