@@ -8,10 +8,10 @@
   <li><a href="https://www.figma.com/proto/tipWpDl8AF1pPSGCAsVdGA/Untitled?node-id=94%3A2&scaling=scale-down-width&page-id=91%3A2&starting-point-node-id=94%3A2">→ Protótipo no Wireframe do Figma</a></li> 
  
 #### Tecnologias Utilizadas
-**Banco de Dados:** MySQL e Wampserver;
-**Back-end:** PHP;
-**Front-end:** HTML5, CSS e JavaScript;
-**Ferramentas:** GitHub, VS Code, Canva, Excel e Figma.
+- **Banco de Dados:** MySQL e Wampserver;
+- **Back-end:** PHP;
+- **Front-end:** HTML5, CSS e JavaScript;
+- **Ferramentas:** GitHub, VS Code, Canva, Excel e Figma.
 
 #### Contribuições Pessoais
 <p align="justify">Dei o pontapé inicial do front-end e design do site, elaborei os wireframes das telas no figma e até no WIX para ter mais noção de recursos de UX, sempre em acordo com todos do grupo. Também contribui com a criação do manual do usuário e elaboração do repositório no github.</p>
