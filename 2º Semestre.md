@@ -18,8 +18,8 @@
 <p align="justify">Vale destacar também que foi meu primeiro ano na FATEC, fazendo um curso de tecnologia e participando de um projeto que, embora acadêmico, possui responsabilidades relevantes e tem alta dimensão de aprendizado. No início do semestre me lembro de ficar com receio de não conseguir realizar um bom trabalho, mas foi ai que surgiu o aprendizado diário com o time, professores e colegas de sala. Ali comecei a aprender o compromisso com as Dailys e a importância destas, aprendi como funcionava o SCRUM, ou seja, até eu chegar  no Manual do Usuário, Elaboração do Github e "desenho" dos Wireframes (como citei antes) foram muitas horas dedicadas de pesquisa, aprendi a pesquisa e pude contribuir com o grupo aplicando todo o conteúdo que absorvi durante o semestre para contribuir com os itens que citei até aqui. </p>
  
 ## 🔹 Hard Skills
-- MySQL: Meu primeiro contato com a ferramenta. Tive 
-- Github: Primeiro contato com a linguagem. Aprendi como é a estrutura e funcionava de fato o HTML/CSS.
+- MySQL: Meu primeiro contato com a ferramenta. Tive a oportunidade de conhecer um pouco da sintaxe do MySQL, consequentemente da liguagem SQL. Com o apoio dos desenvolvedores do grupo, pude aprender a realizar consultas básicas nas tabelas e contribuir com ideias para o desenvolvimento do projeto.
+- Github: Fiquei responsável por elaborar o Github do projeto. Nunca tinha tido o contato direto com a plataforma e foi bem interessante aprender o _markdown_ para criar uma boa estrutura de apresentação do projeto para o cliente. Na faculdade nós não tinhamos uma matéria de dedicada à isso, embora sempre tivemos apoio dos professores. Então pesquisei por conta própria e o aprendizado foi fundamental para  a API e também para o meu trabalho.
 
 ## 🔹 Soft Skills
 - <p align="justify">Gerenciamento de Projeto: Como foi meu primeiro projeto trabalhando em formato TIME ↔ 'SCRUM' ↔ CLIENTE REAL, pude começar a trabalhar a minha desenvoltura, oração, gestão de atividades, compromissos com resultados, horário e relatórios regulares.
