@@ -18,7 +18,7 @@
 <p align="justify">Vale destacar também que foi meu primeiro ano na FATEC, fazendo um curso de tecnologia e participando de um projeto que, embora acadêmico, possui responsabilidades relevantes e tem alta dimensão de aprendizado. No início do semestre me lembro de ficar com receio de não conseguir realizar um bom trabalho, mas foi ai que surgiu o aprendizado diário com o time, professores e colegas de sala. Ali comecei a aprender o compromisso com as Dailys e a importância destas, aprendi como funcionava o SCRUM, ou seja, até eu chegar  no Manual do Usuário, Elaboração do Github e "desenho" dos Wireframes (como citei antes) foram muitas horas dedicadas de pesquisa, aprendi a pesquisa e pude contribuir com o grupo aplicando todo o conteúdo que absorvi durante o semestre para contribuir com os itens que citei até aqui. </p>
  
 ## 🔹 Hard Skills
-- MySQL: Pude ter o primeiro contato com a ferramenta. Entendi a forma básica como ela funciona, sem aprofundar muito em todos os recursos, e aprendi a elaborar protótipos que utilizamos na API.
+- MySQL: Meu primeiro contato com a ferramenta. Tive 
 - Github: Primeiro contato com a linguagem. Aprendi como é a estrutura e funcionava de fato o HTML/CSS.
 
 ## 🔹 Soft Skills
