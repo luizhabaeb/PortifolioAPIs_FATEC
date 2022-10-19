@@ -22,8 +22,8 @@
 - Github: Fiquei responsável por elaborar o Github do projeto. Nunca tinha tido o contato direto com a plataforma e foi bem interessante aprender o _markdown_ para criar uma boa estrutura de apresentação do projeto para o cliente. Na faculdade nós não tinhamos uma matéria de dedicada à isso, embora sempre tivemos apoio dos professores. Então pesquisei por conta própria e o aprendizado foi fundamental para  a API e também para o meu trabalho.
 
 ## 🔹 Soft Skills
-- <p align="justify">Gerenciamento de Projeto: Como foi meu primeiro projeto trabalhando em formato TIME ↔ 'SCRUM' ↔ CLIENTE REAL, pude começar a trabalhar a minha desenvoltura, oração, gestão de atividades, compromissos com resultados, horário e relatórios regulares.
-- Levantamento de Requisitos: Pensando sempre no sucesso do grupo/projeto e considerando a inexperiência de todos neste formato de trabalho, foi fundamental ter empatia para com todos os integrantes para que conseguimos chegar ao resultado mínimo esperado pelo cliente.
+- <p align="justify">Product Owner: Nesta API eu tive a oportunidade de trabalhar como PO no meu time. Portanto, foi uma experiência que agregou muito no quesito de "negociação" e gerenciamento do projeto. No início da Sprint 1, como eu nunca havia trabalhado dessa forma, acabei fazendo algumas perguntas "redundantes" e sem muita relevância para o cliente/projeto. Porém ao decorrer do projeto acessei bastante materiais de SCRUM, gerenciamento de projetos e relacionamento com o cliente - o que fez total diferença até o fim do projeto porque extraímos informações imprescindíveis para a conclusão do sistema.
+- Levantamento de Requisitos: Creio que essa soft skills é complementar e consequente da acima...
 
  
  
