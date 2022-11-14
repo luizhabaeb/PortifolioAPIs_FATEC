@@ -23,7 +23,7 @@
 
 ## 🔹 Soft Skills
 - <p align="justify">Product Owner: Nesta API eu tive a oportunidade de trabalhar como PO no meu time. Portanto, foi uma experiência que agregou muito no quesito de "negociação" e gerenciamento do projeto. No início da Sprint 1, como eu nunca havia trabalhado dessa forma, acabei fazendo algumas perguntas "redundantes" e sem muita relevância para o cliente/projeto. Porém ao decorrer do projeto acessei bastante materiais de SCRUM, gerenciamento de projetos e relacionamento com o cliente - o que fez total diferença até o fim do projeto porque extraímos informações imprescindíveis para a conclusão do sistema.
-- Levantamento de Requisitos: Creio que essa soft skills é complementar e consequente da acima...
+- Levantamento de Requisitos: Creio que essa soft skills é complementar e consequente da acima... Como eu recebi o cargo de Product Owner, era minha responsabilidade de entender as dores, anseios e desejos do cliente para com o projeto à ser executado. Portanto, aprendi a colher os requisitos, regras de negócio, funcionalidades etc.
 
  
  
