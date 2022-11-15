@@ -1,23 +1,23 @@
    ### 📍 2022/3º Semestre - GROUP HEXTECH
   <img align="right" src="https://user-images.githubusercontent.com/82103455/196815906-0dac1fb3-67a3-495f-bc2a-57d7e393e3f5.jpg" height="240px">
- <p align="justify">No meu segundo semestre na FATEC, eu e meu grupo tivemos como cliente a empresa JETSOFT, uma empresa que oferece aos seus clientes e parceiros soluções surpreendentes e inovadoras, privilegiando as relações humanas, estando próximos, conhecendo profundamente suas atividades e desejos, para apoiar de forma ágil e flexível a implementação das suas diversas estratégias de negócio..</p>
-<p align="justify">O objetivo do nosso grupo é criar um CRUD para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.</p>
+ <p align="justify">No meu terceiro semestre na FATEC, eu e meu grupo tivemos como cliente a empresa IACIT. Uma empresa de consultoria meteorológica, e hoje, um dos  serviços é fornecer aos clientes, relatórios customizados de dados meteorológicos. Como trabalham processando muitas informações manualmente, há uma perda de tempo e desperdício de recursos. </p>
+<p align="justify">Por isso, o intuito do nosso grupo é fazer um sistema que nos permita realizar a importação dos dadosmeteorológicos, bem como armazená-los em uma base de dados, para posteriormente gerar os relatórios desejados por nossos clientes.</p>
 
 
  <li><a href="https://github.com/GroupHextech/HEXTECH-API3sem/tree/main">→ Repositório deste Projeto</a></li> 
-  <li><a href="https://www.figma.com/proto/tipWpDl8AF1pPSGCAsVdGA/Untitled?node-id=94%3A2&scaling=scale-down-width&page-id=91%3A2&starting-point-node-id=94%3A2">→ Protótipo no Wireframe do Figma</a></li> 
+  <li><a href="https://github.com/GroupHextech/HEXTECH-API3sem/blob/main/documents/wireframe_sprint1.pdf">→ Protótipo no Wireframe do Figma</a></li> 
  
 ## 🔧 Tecnologias Utilizadas
-- **Banco de Dados:** MySQL e Wampserver;
-- **Back-end:** PHP;
-- **Front-end:** HTML5, CSS e JavaScript;
-- **Ferramentas:** GitHub, VS Code, Canva, Excel e Figma.
+- **Banco de Dados:** PostgreSQL, PGAdmin;
+- **Back-end:** Java JDK, JPA, Sprintboot, Spring, Hibernate, Apache Tomcat;
+- **Front-end:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, Thymeleaf, Ajax e Figma;
+- **Ferramentas:** GitHub, Git, VS Code, Excel, MS Teams.
 
-## 👨🏻‍💻 Contribuições Pessoais
+## 👨🏻‍💻 Contribuições Pessoais ***
 <p align="justify">Dei o pontapé inicial do front-end e design do site, elaborei os wireframes das telas no figma e até no WIX para ter mais noção de recursos de UX, sempre em acordo com todos do grupo. Também contribui com a criação do manual do usuário e elaboração do repositório no github.</p>
 <p align="justify">Vale destacar também que foi meu primeiro ano na FATEC, fazendo um curso de tecnologia e participando de um projeto que, embora acadêmico, possui responsabilidades relevantes e tem alta dimensão de aprendizado. No início do semestre me lembro de ficar com receio de não conseguir realizar um bom trabalho, mas foi ai que surgiu o aprendizado diário com o time, professores e colegas de sala. Ali comecei a aprender o compromisso com as Dailys e a importância destas, aprendi como funcionava o SCRUM, ou seja, até eu chegar  no Manual do Usuário, Elaboração do Github e "desenho" dos Wireframes (como citei antes) foram muitas horas dedicadas de pesquisa, aprendi a pesquisa e pude contribuir com o grupo aplicando todo o conteúdo que absorvi durante o semestre para contribuir com os itens que citei até aqui. </p>
  
-## 🔹 Hard Skills
+## 🔹 Hard Skills ***
 - MySQL: Meu primeiro contato com a ferramenta. Tive a oportunidade de conhecer um pouco da sintaxe do MySQL, consequentemente da liguagem SQL. Com o apoio dos desenvolvedores do grupo, pude aprender a realizar consultas básicas nas tabelas e contribuir com ideias para o desenvolvimento do projeto.
 - Github: Fiquei responsável por elaborar o Github do projeto. Nunca tinha tido o contato direto com a plataforma e foi bem interessante aprender o _markdown_ para criar uma boa estrutura de apresentação do projeto para o cliente. Na faculdade nós não tinhamos uma matéria de dedicada à isso, embora sempre tivemos apoio dos professores. Então pesquisei por conta própria e o aprendizado foi fundamental para  a API e também para o meu trabalho.
 
