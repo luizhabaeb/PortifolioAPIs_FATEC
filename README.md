@@ -1,5 +1,7 @@
 <h1>Luiz Fernando Silva Habaeb<h1>
 
+#Orientador: Prof.ª Juliana Pasqualin
+
 ## Introdução
 
 <img align="right" src="https://user-images.githubusercontent.com/82103455/190830861-1532f904-9330-453c-a298-dfa2739d63c5.png" height="240px">
