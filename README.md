@@ -9,7 +9,7 @@ Orientador: Prof.ª Juliana Pasqualin
 
 </p>
 
-<p align="justify">Tenho 26 anos, sou casado e pai do Tiago e da Manuela. Minha família é tudo para mim.
+<p align="justify">
 
 Atualmente sou estagiário em Desenvolvimento de Software pela Ericsson Telecomunicações, na empresa eu trabalho com tecnologias como: C#, VB .NET, Oracle SQL, Microsoft Azure DevOps, Power Platform e Power BI. 
 Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho experiência com suporte técnico e atendimento e gosto de trabalhar com pessoas. Me sinto motivado e grato somente pela oportunidade de poder ajudar, seja no âmbito ou profissional. Meu trabalho tem ênfase em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias em todos os momentos. Assim, alguns dos meus conhecimentos e estudos, no momento, estão focados em Programação Orientada a Objetos, C#, .NET Framework, Power Platform e Azure DevOps.</p>
