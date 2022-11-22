@@ -1,6 +1,6 @@
 <h1>Luiz Fernando Silva Habaeb<h1>
 
-#Orientador: Prof.ª Juliana Pasqualin
+Orientador: Prof.ª Juliana Pasqualin
 
 ## Introdução
 
