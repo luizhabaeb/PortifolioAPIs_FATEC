@@ -15,9 +15,10 @@
 <p align="justify"><details>
 <summary>Wireframes, GitHub, elaboração do Manual do Usuário</summary/=><br>
 Dei o pontapé inicial no design do site, elaborei os wireframes das telas no figma e até no WIX para ter mais noção de recursos de UX, sempre em acordo com todos do grupo. Também contribui com a criação do manual do usuário e elaboração do repositório no github. <br>
- 
+ <br>
  <details><summary> Wireframes </summary>
-  <a href="https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1">1º Protótipo - FIGMA</a>
+  <a href="https://www.figma.com/file/reOnZxAVKGjLkEKW7WkVbG/Untitled?node-id=0%3A1">1º Protótipo - FIGMA</a>  
+  <a href="https://iridiumfatec.wixsite.com/ongvomariafelix">2º Protótipo - WIX</a>
   </details>
  
 </br>
