@@ -17,7 +17,7 @@
 
 <details>
   <summary> FrontEnd, Design, Manual do Usuário e GitHub </summary>
-<p align="justify">Dei o pontapé inicial do front-end e design do site, elaborei os wireframes das telas no figma e até no WIX para ter mais noção de recursos de UX, sempre em acordo com todos do grupo. Também contribui com a criação do manual do usuário e elaboração do repositório no github.</p>
+<p align="justify">escrever</p>
  
   <details><summary> Alguns códigos que contribui: </summary>
   
@@ -247,7 +247,7 @@ li {
   </details>    
     
   <details><summary> Complementando... </summary>
-  <p align="justify">Vale destacar também que foi meu primeiro ano na FATEC, fazendo um curso de tecnologia e participando de um projeto que, embora acadêmico, possui responsabilidades relevantes e tem alta dimensão de aprendizado. No início do semestre me lembro de ficar com receio de não conseguir realizar um bom trabalho, mas foi ai que surgiu o aprendizado diário com o time, professores e colegas de sala. Ali comecei a aprender o compromisso com as Dailys e a importância destas, aprendi como funcionava o SCRUM, ou seja, até eu chegar  no Manual do Usuário, Elaboração do Github e "desenho" dos Wireframes (como citei antes) foram muitas horas dedicadas de pesquisa, aprendi a pesquisa e pude contribuir com o grupo aplicando todo o conteúdo que absorvi durante o semestre para contribuir com os itens que citei até aqui. </p>
+  <p align="justify"> escrever </p>
   </details>
 </details>
  
