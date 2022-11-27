@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia, computação e desenvolvimento de software. Tenho
 </p>
  
 #### Contato
-- Email:  luiz.habaeb@fatec.sp.gov.br
+- luiz.habaeb@fatec.sp.gov.br
 - <a href="https://linkedin.com/in/luizhabaeb">Linkedin</a>
 
 ## Meus Projetos
