@@ -17,7 +17,7 @@
 
 <details>
   <summary> FrontEnd, Design, Manual do Usuário e GitHub </summary>
-<p align="justify">escrever</p>
+<p align="justify">Neste projeto eu comecei a aprender o desenvolvimento de HTML e CSS. Elaborei os wireframes e desenvolvi as primeiras telas para o projeto, conforme vocês podem ver um trecho no item abaixo. Fui PO da equipe e contribui efetivamente com a gestão das Tasks, backlog do produto e fiz o manual do usuário.</p>
  
   <details><summary> Alguns códigos que contribui: </summary>
   
@@ -244,11 +244,6 @@ li {
   
   ```
  
-  </details>    
-    
-  <details><summary> Complementando... </summary>
-  <p align="justify"> escrever </p>
-  </details>
 </details>
  
 ## 🔹 Hard Skills
