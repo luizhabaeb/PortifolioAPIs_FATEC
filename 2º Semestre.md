@@ -241,11 +241,11 @@ li {
     }
 
 }
-  
   ```
- 
+  </details>
+  
 </details>
- 
+  
 ## 🔹 Hard Skills
 - MySQL: Meu primeiro contato com a ferramenta. Tive a oportunidade de conhecer um pouco da sintaxe do MySQL, consequentemente da liguagem SQL. Com o apoio dos desenvolvedores do grupo, pude aprender a realizar consultas básicas nas tabelas e contribuir com ideias para o desenvolvimento do projeto.
 - Github: Fiquei responsável por elaborar o Github do projeto. Nunca tinha tido o contato direto com a plataforma e foi bem interessante aprender o _markdown_ para criar uma boa estrutura de apresentação do projeto para o cliente. Na faculdade nós não tinhamos uma matéria de dedicada à isso, embora sempre tivemos apoio dos professores. Então pesquisei por conta própria e o aprendizado foi fundamental para  a API e também para o meu trabalho.
